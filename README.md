@@ -20,9 +20,7 @@ Open to collaboration and contributions. Let's innovate together!
 
 ## 📈 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukuliskul&layout=compact)](https://github.com/mukuliskul)
-
-[![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukuliskul)](https://github.com/mukuliskul)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukuliskul&layout=compact)](https://github.com/mukuliskul) [![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukuliskul)](https://github.com/mukuliskul)
 
 
 <!--
